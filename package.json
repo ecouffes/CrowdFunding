@@ -1,0 +1,24 @@
+{
+  "name": "CrowdFunding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecouffes/CrowdFunding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecouffes/CrowdFunding/issues"
+  },
+  "homepage": "https://github.com/ecouffes/CrowdFunding#readme",
+  "dependencies": {
+    "solc": "^0.4.23",
+    "web3": "^0.20.6"
+  }
+}
